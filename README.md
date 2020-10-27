@@ -4,7 +4,7 @@
 
 ## Description 
 
-An Budget Calculator app than can be used to track transactions overtime. This is a PWA so these functions will work offline and update the database once back online. Check it out here [here]()
+An Budget Calculator app than can be used to track transactions overtime. This is a PWA so these functions will work offline and update the database once back online. Check it out here [here](https://secret-cliffs-63214.herokuapp.com/)
 
 ## Usage 
 
